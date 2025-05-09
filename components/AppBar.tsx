@@ -32,6 +32,9 @@ export default function Navbar() {
             <Link href="/contact" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
               Contact
             </Link>
+            <Link href="/login" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">
+              Login
+            </Link>
           </div>
           <div className="flex items-center md:hidden">
             <button
